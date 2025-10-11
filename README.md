@@ -1,6 +1,8 @@
 # xtivreg2
 Extended IV/2SLS, GMM and AC/HAC, LIML and k-class regression for panel data models Use xtivreg2 With STATA 19
 
+https://www.youtube.com/watch?v=0fxxtOPR-3o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
